@@ -1,7 +1,7 @@
-Hospital Readmission Risk Scoring & Case Management Outreach
+## Hospital Readmission Risk Scoring & Case Management Outreach
 
 
-##Business Problem
+## Business Problem
 
   It's not just the patient who suffers when they have to be readmitted into the hospital, the hospital itself faces financial penalties when patients are readmitted within 30 days of discharge. Most analyses stop at describing which groups tend to be readmitted more like either older patients, certain diagnoses, certain discharge types. That's useful for a slide deck, but it doesn't help a case manager decide who to call on a Tuesday morning.
 
